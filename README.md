@@ -1,5 +1,7 @@
 # Handling SSL certificates in Selenium WebDriver
 
+This repository holds begineer code to help you understand how to handle SSL certificates in Selenium WebDriver. It contains different test files to help understand the difference in execution when we accept and reject insecure SSL certificates. For ease of execution on different browseers, LambdaTest cloud Selenium grid is being used.
+
 ## What is SSL?
 SSL stands for Secure Sockets Layer. It is a standard security protocol that helps to establish a secure connection between the client (browser) and the server. SSL certificates help to ensure that all the data transmission between a client and server is encrypted using a strong encryption standard.
 
