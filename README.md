@@ -16,7 +16,7 @@ It is created using Selenium with Java, TestNG and Maven for Web-based automatio
 This is the list of tools, being used in this framework:
 1. Apache Maven
 2. Java 8
-3. Selenium Cloud Grid - [LambdaTest](https://www.lambdatest.com) Platform
+3. Selenium Cloud Grid - [LambdaTest](http://www.lambdatest.com?fp_ref=vipul51) Platform
 4. TestNG Framework
 
 ## Steps for Local Execution
